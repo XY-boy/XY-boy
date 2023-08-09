@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&weight=1000&size=36&pause=1000&color=CD3142&center=true&vCenter=true&repeat=false&width=1000&lines=Zooming+Earth+Eyes)](https://git.io/typing-svg)  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Zooming+Earth+Eyes" alt="Typing SVG" />
+</p>
 
 🌱 **Repositories**
 |   Topic   |     Title     |    Resource  | Publication
