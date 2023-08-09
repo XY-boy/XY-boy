@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=36&pause=1000&center=false&vCenter=false&repeat=false&width=435&lines=Zooming+Earth+Eyes)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=36&pause=1000&center=true&vCenter=false&repeat=false&width=1000&lines=Zooming+Earth+Eyes)](https://git.io/typing-svg)  
 
 🌱 **Repositories**
-|   Topic   |     Title     |    Resource  |
-|:---:|:------:|             :--------------------------:                     |
-|   Satellite video SR  |   [Satellite Video Super-resolution via Multi-Scale Deformable Convolution Alignment and Temporal Grouping Projection](https://ieeexplore.ieee.org/abstract/document/9530280) | ![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/MSDTGP?style=social)
+|   Topic   |     Title     |    Resource  | Publication
+|:---:|:------:|             :--------------------------:                     |:---:|
+|   Satellite video super-resolution  |   [Satellite Video Super-resolution via Multi-Scale Deformable Convolution Alignment and Temporal Grouping Projection](https://ieeexplore.ieee.org/abstract/document/9530280) | ![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/MSDTGP?style=social) | IEEE TGRS
 
 
 <!--
