@@ -1,9 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=36&pause=1000&center=true&vCenter=false&repeat=false&width=1000&lines=Zooming+Earth+Eyes)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&weight=1000&size=36&pause=1000&color=CD3142&center=true&vCenter=false&repeat=false&width=1000&lines=Zooming+Earth+Eyes)](https://git.io/typing-svg)  
 
 🌱 **Repositories**
 |   Topic   |     Title     |    Resource  | Publication
-|:---:|:------:|             :--------------------------:                     |:---:|
+|:---------:|:------:|             :--------------------------:                     |:---:|
+|   Remote sensing image blind super-resolution  |   [From Degrade to Upgrade: Learning a Self-Supervised Degradation-Guided Adaptive Network for Blind Remote Sensing Image Super-Resolution](https://www.sciencedirect.com/science/article/pii/S1566253523001100) | ![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/DRSR?style=social) | Information Fusion
+|   Satellite video super-resolution  |   [Local-Global Temporal Difference Learning for Satellite Video Super-Resolution](https://www.sciencedirect.com/science/article/pii/S1566253523001100) | [![arxiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2304.04421) ![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/LGTD?style=social) | IEEE TCSVT
 |   Satellite video super-resolution  |   [Satellite Video Super-resolution via Multi-Scale Deformable Convolution Alignment and Temporal Grouping Projection](https://ieeexplore.ieee.org/abstract/document/9530280) | ![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/MSDTGP?style=social) | IEEE TGRS
+|   Satellite video space-time super-resolution  |   [Space-time Super-resolution for Satellite Video: A Joint Framework Based on Multi-Scale Spatial-Temporal Transformer](https://www.sciencedirect.com/science/article/pii/S0303243422000575) | ![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/MSTT-STVSR?style=social) | JAG
 
 
 <!--
