@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=36&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Zooming+Earth+Eyes)](https://git.io/typing-svg)
 ### Hi there 👋
 
 <!--
