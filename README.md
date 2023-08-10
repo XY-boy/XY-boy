@@ -1,6 +1,6 @@
-# <center> Zooming Earth Eyes
+# <p align="center">✨✨✨ Zooming Earth Eyes ✨✨✨</p>
 
-🌱 **Repositories**
+🌱 **Repositories** 🌱
 |   Topic   |     Title     |    Resource  | Publication
 |:---------:|:------:|             :--------------------------:                     |:---:|
 |   Remote sensing image blind super-resolution  |   [From Degrade to Upgrade: Learning a Self-Supervised Degradation-Guided Adaptive Network for Blind Remote Sensing Image Super-Resolution](https://www.sciencedirect.com/science/article/pii/S1566253523001100) | [![Static Badge](https://img.shields.io/badge/PDF-Download-blue])](https://github.com/XY-boy/DRSR/blob/main/img/XY-IF.pdf) ![GitHub Repo stars](https://img.shields.io/github/stars/XY-boy/DRSR?style=social) | Information Fusion
